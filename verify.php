@@ -1,6 +1,5 @@
 <?php
-$token = "BOT-TOKEN-HERE";
-$keys = array("id", "first_name", "last_name", "username", "photo_url", "auth_date");
+$token = "BOT-TOKEN-HERE";1671434251:AAHxMdbO0Np00xcd8pGdW1OvXfeOU0iM8n0keys = array("id", "first_name", "last_name", "username", "photo_url", "auth_date");
 
 if (isset($_GET['hash'])) {
 	foreach ($_GET as $key => $value) {
